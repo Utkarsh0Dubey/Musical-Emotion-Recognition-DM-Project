@@ -1,0 +1,11 @@
+===== SUMMARY OF RESULTS =====
+MLP Regressor (scikit-learn) - Test MSE: 0.0139, R^2: 0.8087
+Linear Regression          - Test MSE: 0.0477, R^2: 0.3160
+Decision Tree              - Test MSE: 0.0064, R^2: 0.9148
+Random Forest              - Test MSE: 0.0064, R^2: 0.l9148
+
+
+Valence: Type of Feeling
+Arousal: Intensity of feeling
+MFCC: General shape (Global)
+Special Contrast: Sharpness and Roughness

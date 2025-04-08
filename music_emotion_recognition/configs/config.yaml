@@ -1,0 +1,10 @@
+data:
+  audio_dir: "dataset/DEAM/DEAM_audio"
+  processed_data_dir: "data/processed_data"
+  annotations_csv: "dataset/DEAM/DEAM_Annotations/annotations.csv"
+  combined_csv: "data/processed_data/combined_features.csv"
+
+feature_extraction:
+  sampling_rate: 22050
+  n_mfcc: 13
+  hop_length: 512
